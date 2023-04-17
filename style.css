@@ -1,0 +1,190 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #121212
+}
+
+.title{
+  text-align:center;
+     font-family: 'comic-sans', cursive;
+  border: 40px groove #87cf87;
+  margin: 200px;
+  padding: 40px;
+  
+}
+
+
+body{
+  color:white;
+}
+
+body{
+  font-family:'Papyrus'
+}
+
+.left{
+  width:300px;
+  display:flex;
+}
+
+.riceRolls{
+  width:300px;
+  text-align:left;
+}
+
+.rice{
+  width:300px;
+}
+
+.header{
+  width:300px;
+  border: 10px solid #ffffff;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.riceRolls{
+border: 10px solid #ffffff;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.Beans{
+    width:300px;
+  border: 10px solid #ffffff;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+.riceBeans{
+  width:300px;
+}
+
+.salad{
+   width:300px;
+  border: 10px dashed #a374b4;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.greenSalad{
+  width:300px;
+}
+.column{
+  display:flex;
+  width:400px;
+}
+
+.cucumber{
+   width:300px;
+  border: 10px dashed #a374b4;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.smashedCucumber{
+   width:300px;
+}
+
+.Sticky{
+   width:300px;
+  border: 10px dashed #a374b4;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.stickyRice{
+   width:300px;
+}
+
+.salt{
+   width:300px;
+  border: 10px dashed #a374b4;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.saltPepper{
+     width:300px;
+}
+
+.little{
+   width:300px;
+  border: 10px dashed #a374b4;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+.littleBok{
+   width:300px;
+}
+
+.columnSides{
+  display:flex;
+  width:400px;
+}
+
+.soft{
+   width:300px;
+  border: 10px dotted #c35555;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+.softDrink{
+   width:300px;
+}
+
+.white{
+   width:300px;
+  border: 10px dotted#c35555;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+.whiteWine{
+   width:300px;
+}
+
+.Red{
+   width:300px;
+  border: 10px dotted#c35555;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.redWine{
+   width:300px;
+}
+
+.beer{
+   width:300px;
+  border: 10px dotted #c35555;
+  margin:5px;
+  padding: 5px;
+  text-align:left;
+}
+
+.beerSake{
+   width:300px;
+}
+
+.drinkColumn{
+  display:flex;
+  width:400px;
+}
+
+.sideColumn{
+  display:flex;
+  width:400px;
+}
